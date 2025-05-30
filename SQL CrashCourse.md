@@ -244,8 +244,6 @@ INSERT INTO Borrower (customer_name, loan_number) VALUES
 </code></pre>
 </li>
 </ol>
-
-    </div>
   </div>
 </body>
 
