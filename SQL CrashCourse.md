@@ -18,8 +18,6 @@
 </ul>
 </li>
 </ul>
-
-    </div>
   </div>
   <div class="stackedit__right">
     <div class="stackedit__html">
